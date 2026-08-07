@@ -1,5 +1,7 @@
 # Obsidian CLI skill
 
+[![skills.sh](https://skills.sh/b/Today20092/obsidian-cli)](https://skills.sh/Today20092/obsidian-cli)
+
 An agent skill for operating Obsidian vaults through the official `obsidian` command-line interface.
 
 ## Why this exists
