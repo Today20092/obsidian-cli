@@ -1,3 +1,5 @@
+> **Moved:** This skill is now maintained in [Today20092/skills](https://github.com/Today20092/skills). Install and update it from that repository. This repository is retained for existing links and historical reference.
+
 # Obsidian CLI skill
 
 [![skills.sh](https://skills.sh/b/Today20092/obsidian-cli)](https://skills.sh/Today20092/obsidian-cli)
@@ -15,13 +17,13 @@ It uses the installed CLI's `obsidian help <command>` output as the source of tr
 Install globally for Codex:
 
 ```shell
-npx skills add Today20092/obsidian-cli -g -a codex
+npx skills add Today20092/skills --skill obsidian-cli -g -a codex
 ```
 
 Or install interactively for another supported agent:
 
 ```shell
-npx skills add Today20092/obsidian-cli
+npx skills add Today20092/skills --skill obsidian-cli
 ```
 
 Obsidian 1.12.7 or newer must be installed. Enable **Command line interface** under **Settings → General**. See the [official Obsidian CLI documentation](https://obsidian.md/help/cli).
